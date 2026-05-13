@@ -1,0 +1,12 @@
+{
+  "job_id": "tg_d4610c3210b842fb998098c6",
+  "source_url": "https://vip-dl2.myalphadl.com/Zw4tzJO5sdjxILoCVwNfyw/The.P.O.L.K.2026.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "created_at_utc": "2026-05-13T11:58:21Z",
+  "mode": "chunked",
+  "total_size_bytes": 703802412,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 8,
+  "single_file_path": "jobs/tg_d4610c3210b842fb998098c6/file.bin",
+  "chunks_path_prefix": "jobs/tg_d4610c3210b842fb998098c6/chunks/chunk_",
+  "suggested_filename": "The.P.O.L.K.2026.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv"
+}
